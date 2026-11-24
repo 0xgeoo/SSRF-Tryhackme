@@ -1,4 +1,4 @@
-# TryHackMe — SSRF (HRMS Walkthrough)
+# TryHackMe — SSRF
 
 > Room: https://tryhackme.com/room/ssrfhr
 > Difficulty: Medium — Target: `http://hrms.thm` (Human Resource Management System)
